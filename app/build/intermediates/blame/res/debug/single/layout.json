@@ -12,6 +12,10 @@
         "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
     },
     {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/fragment_list_semillas.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/layout/fragment_list_semillas.xml"
+    },
+    {
         "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -38,6 +42,10 @@
     {
         "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/fragment_agregar_disponibles.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/layout/fragment_agregar_disponibles.xml"
     },
     {
         "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -124,6 +132,10 @@
         "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/fragment_login.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
         "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
     },
@@ -146,6 +158,10 @@
     {
         "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/fragment_sign_up.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/layout/fragment_sign_up.xml"
     },
     {
         "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
