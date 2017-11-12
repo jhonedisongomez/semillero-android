@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 251,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "C:\\Users\\jhon\\.android\\build-cache\\2c718154836406fe12347d176e14668ee77956a6\\output\\res\\values-my\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 251,
+                        "endOffset": 590
+                    }
+                }
+            }
+        ]
+    }
+]

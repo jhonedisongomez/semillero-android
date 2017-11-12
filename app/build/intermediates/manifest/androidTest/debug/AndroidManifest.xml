@@ -3,8 +3,8 @@
     package="com.coapps.semillero.test" >
 
     <uses-sdk
-        android:minSdkVersion="15"
-        android:targetSdkVersion="27" />
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
 
     <instrumentation
         android:name="android.support.test.runner.AndroidJUnitRunner"

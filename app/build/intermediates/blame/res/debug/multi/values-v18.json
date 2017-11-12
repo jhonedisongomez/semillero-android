@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "outputFile": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v18/values-v18.xml",
+                    "file": "C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

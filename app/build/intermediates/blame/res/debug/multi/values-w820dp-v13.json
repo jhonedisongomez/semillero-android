@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,203 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 295,
                         "endColumn": 57,
-                        "endOffset": 344
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 52,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 52,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 49,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 49,
+                        "endOffset": 61
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 55,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 55,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 69,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 69,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 75,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 75,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 73,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 73,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 49,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 49,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 71,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 71,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 80,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 80,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endColumn": 60,
+                    "endOffset": 751
+                },
+                "from": {
+                    "file": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 60,
+                        "endOffset": 357
                     }
                 }
             }

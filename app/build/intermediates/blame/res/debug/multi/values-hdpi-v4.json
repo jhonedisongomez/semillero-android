@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

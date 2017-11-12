@@ -1,7 +1,7 @@
-#Fri Nov 10 17:44:27 COT 2017
-base.0=/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c7f45892b6bea46541f88cb8c23ed4c733f19b6c
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c0d481c306b27d444aa4b997779a41ecac6bf1d/classes.dex
-base.1=/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c0d481c306b27d444aa4b997779a41ecac6bf1d
-file.0=/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c7f45892b6bea46541f88cb8c23ed4c733f19b6c/classes.dex
+#Sun Nov 12 10:47:37 COT 2017
+base.0=G\:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fa5009f398fb813edee42db0af5bfa0a987dd272
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d5c1ba2021d93bc7422279226be3c4044adc76c8\\classes.dex
+base.1=G\:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d5c1ba2021d93bc7422279226be3c4044adc76c8
+file.0=G\:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fa5009f398fb813edee42db0af5bfa0a987dd272\\classes.dex
