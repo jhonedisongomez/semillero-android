@@ -8,7 +8,7 @@ import java.io.IOException;
  * Created by jhon on 11/11/2017.
  */
 
-public interface LoginRepository {
+public interface UserRepository {
 
     String login(User user) throws IOException;
 

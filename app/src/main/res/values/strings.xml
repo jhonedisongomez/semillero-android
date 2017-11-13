@@ -13,4 +13,17 @@
     <string name="action_settings">Settings</string>
     <string name="save_product_error">Error guardando producto</string>
     <string name="save_product_success">Producto guardado correctamente</string>
+
+    <string name="email">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="password_again">Confirmar contraseña</string>
+
+    <string name="btn_sign_in">Ingresar</string>
+    <string name="btn_Sign_up">Registrate</string>
+    <string name="link">No estas registrado, registrate aqui</string>
+
+    <string name="names">Nombres</string>
+    <string name="last_name">Apellidos</string>
+    <string name="agree">Acepto terminos y condiciones</string>
+
 </resources>

@@ -1,7 +1,7 @@
 package com.coapps.semillero.presentation.presenter;
 
-import com.coapps.semillero.domain.interactor.LoginInteractor;
-import com.coapps.semillero.domain.interactor.impl.LoginInteractorImpl;
+import com.coapps.semillero.domain.interactor.UserInteractor;
+import com.coapps.semillero.domain.interactor.impl.UserInteractorImpl;
 import com.coapps.semillero.domain.model.User;
 
 
@@ -9,7 +9,7 @@ import com.coapps.semillero.domain.model.User;
  * Created by jhon on 11/11/2017.
  */
 
-public class LoginPresenter {
+public class UserPresenter {
 
     public interface View {
         void showProgress();
@@ -20,13 +20,13 @@ public class LoginPresenter {
     }
 
     private View view;
-    private LoginInteractor loginInteractor;
+    private UserInteractor loginInteractor;
     private String response;
 
 
-    public LoginPresenter(View view){
+    public UserPresenter(View view){
         this.view = view;
-        loginInteractor = new LoginInteractorImpl();
+        loginInteractor = new UserInteractorImpl();
     }
 
     public void login(String username, String password){
@@ -34,7 +34,7 @@ public class LoginPresenter {
 
         User user = new User(username, password);
 
-        loginInteractor.syncLogin(user, new LoginInteractor.Callback(){
+        loginInteractor.syncLogin(user, new UserInteractor.Callback(){
 
             @Override
             public void success(Object result) {

@@ -1,22 +1,23 @@
 package com.coapps.semillero.presentation.view.fragment;
 
-import android.content.Context;
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentTransaction;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.coapps.semillero.R;
 import com.coapps.semillero.domain.model.User;
-import com.coapps.semillero.presentation.presenter.LoginPresenter;
+import com.coapps.semillero.presentation.presenter.UserPresenter;
 import com.coapps.semillero.presentation.view.activity.MainActivity;
+import com.coapps.semillero.utilities.Constants;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -25,16 +26,17 @@ import com.coapps.semillero.presentation.view.activity.MainActivity;
  * to handle interaction events.
  * create an instance of this fragment.
  */
-public class Login extends Fragment implements LoginPresenter.View, View.OnClickListener {
+public class Login extends Fragment implements UserPresenter.View, View.OnClickListener {
 
     private MaterialDialog materialDialog;
     private EditText eEmail;
     private EditText ePassword;
     private Button btnLogin;
-    private LoginPresenter presenter;
+    private UserPresenter presenter;
 
     private String email;
     private String password;
+    private TextView link;
 
     public Login() {
         // Required empty public constructor
@@ -61,8 +63,20 @@ public class Login extends Fragment implements LoginPresenter.View, View.OnClick
         .progress(true,0)
         .build();
 
+        link = (TextView) view.findViewById(R.id.txtLinkSignUp);
+        link.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
+                Fragment fragment = new SignUp();
+                fragmentTransaction.replace(R.id.content_main, fragment);
+                fragmentTransaction.addToBackStack(null);
+                fragmentTransaction.commit();
+            }
+        });
+
         btnLogin.setOnClickListener(this);
-        presenter = new LoginPresenter(this);
+        presenter = new UserPresenter(this);
 
 
         return view;
@@ -111,8 +125,12 @@ public class Login extends Fragment implements LoginPresenter.View, View.OnClick
     @Override
     public void showSuccessMessage(String msg) {
         Snackbar.make(getView(),msg, Snackbar.LENGTH_LONG).show();
-        Intent intent = new Intent(getContext(), MainActivity.class);
-        startActivity(intent);
+
+        if(Constants.token.length() > 0){
+            Intent intent = new Intent(getContext(), MainActivity.class);
+            startActivity(intent);
+        }
+
     }
 
 

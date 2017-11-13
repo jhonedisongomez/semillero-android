@@ -1,4 +1,4 @@
-#Sun Nov 12 10:47:33 COT 2017
+#Sun Nov 12 20:05:48 COT 2017
 file.9=G\:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3a79f12271b6d4eab3b030783b4b8c4cc8a50d78\\classes.dex
 base.10=G\:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.2.1_40e91da81000e149abcd2214b112141a24ff71e4
 file.8=G\:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ea86aa71620f09b1e4e231567ae2c818cc78feec\\classes.dex

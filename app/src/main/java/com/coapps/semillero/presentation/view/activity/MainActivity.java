@@ -1,5 +1,6 @@
 package com.coapps.semillero.presentation.view.activity;
 
+import android.content.Context;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
@@ -13,21 +14,26 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import com.coapps.semillero.R;
 import com.coapps.semillero.presentation.view.fragment.Login;
+import com.coapps.semillero.presentation.view.fragment.SignUp;
 import com.coapps.semillero.utilities.Constants;
 
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.activity_main);
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+
         if(Constants.token.length() > 0){
             Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
             setSupportActionBar(toolbar);
@@ -49,7 +55,6 @@ public class MainActivity extends AppCompatActivity
 
             NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
             navigationView.setNavigationItemSelectedListener(this);
-
 
             //Mostramos por defecto la primera opcion del menu
             MenuItem firstOption = navigationView.getMenu().getItem(0);

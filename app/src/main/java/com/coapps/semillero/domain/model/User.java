@@ -10,6 +10,8 @@ public class User {
     private String password;
     private String key;
 
+    //TODO:crear el resto de las variables como son el email y los passwords
+
     public User(String username, String password){
 
         this.username = username;

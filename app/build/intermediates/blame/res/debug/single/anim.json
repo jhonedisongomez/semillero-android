@@ -68,11 +68,11 @@
         "source": "C:\\Users\\jhon\\.android\\build-cache\\0f907bb55fa17f47610d3c88153c736fa452224e\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
         "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
         "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\anim\\abc_popup_enter.xml"
     }
 ]

@@ -7,7 +7,7 @@ import com.coapps.semillero.domain.model.User;
  * Created by jhon on 11/11/2017.
  */
 
-public interface LoginInteractor {
+public interface UserInteractor {
 
     interface Callback {
         void success(Object result);

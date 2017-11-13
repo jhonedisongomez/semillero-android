@@ -1,10 +1,8 @@
 package com.coapps.semillero.repository.impl;
 
 
-import android.util.Log;
-
 import com.coapps.semillero.domain.model.User;
-import com.coapps.semillero.repository.LoginRepository;
+import com.coapps.semillero.repository.UserRepository;
 import com.coapps.semillero.utilities.RetrofitSingleton;
 import com.coapps.semillero.utilities.Constants;
 
@@ -21,7 +19,7 @@ import retrofit2.http.POST;
  * Created by jhon on 11/11/2017.
  */
 
-public class LoginRest implements LoginRepository {
+public class UserRest implements UserRepository {
 
     public interface LoginService{
 

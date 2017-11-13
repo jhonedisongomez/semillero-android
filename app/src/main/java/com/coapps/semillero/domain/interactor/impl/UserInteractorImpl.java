@@ -1,27 +1,24 @@
 package com.coapps.semillero.domain.interactor.impl;
 
-import com.coapps.semillero.domain.interactor.LoginInteractor;
+import com.coapps.semillero.domain.interactor.UserInteractor;
 import com.coapps.semillero.domain.model.User;
-import com.coapps.semillero.repository.LoginRepository;
-import com.coapps.semillero.repository.impl.LoginRest;
+import com.coapps.semillero.repository.impl.UserRest;
 import com.coapps.semillero.utilities.ThreadExecutor;
 
 import java.io.IOException;
-
-import javax.security.auth.callback.Callback;
 
 /**
  * Created by jhon on 11/11/2017.
  */
 
-public class LoginInteractorImpl implements LoginInteractor {
+public class UserInteractorImpl implements UserInteractor {
 
-    private LoginRest loginRest;
+    private UserRest loginRest;
     private String response= "";
 
     @Override
     public String syncLogin(final User puser, final Callback callback) {
-        loginRest = new LoginRest();
+        loginRest = new UserRest();
 
         new ThreadExecutor(new ThreadExecutor.Executor(){
 
