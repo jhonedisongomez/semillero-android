@@ -1,50 +1,98 @@
 [
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\drawable-v21\\md_btn_shape.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\drawable-v21\\md_btn_shape.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/desarrollador/.android/build-cache/1d6e9bbeb4e1abe45f240011cfafa01dd738e55d/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/drawable-v21/ic_menu_camera.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple_dark.xml",
+        "source": "/home/desarrollador/.android/build-cache/23ac3de5fd3f10d85df0e5ed75ddf57a7ca2e75c/output/res/drawable-v21/md_btn_selector_ripple_dark.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/desarrollador/.android/build-cache/1d6e9bbeb4e1abe45f240011cfafa01dd738e55d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple.xml",
+        "source": "/home/desarrollador/.android/build-cache/23ac3de5fd3f10d85df0e5ed75ddf57a7ca2e75c/output/res/drawable-v21/md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/home/desarrollador/.android/build-cache/23ac3de5fd3f10d85df0e5ed75ddf57a7ca2e75c/output/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/desarrollador/.android/build-cache/1d6e9bbeb4e1abe45f240011cfafa01dd738e55d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
     }
 ]

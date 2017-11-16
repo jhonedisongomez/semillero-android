@@ -1,14 +1,26 @@
 [
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/home/desarrollador/.android/build-cache/23ac3de5fd3f10d85df0e5ed75ddf57a7ca2e75c/output/res/layout-v14/md_stub_progress.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-v14\\md_stub_progress.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/home/desarrollador/.android/build-cache/23ac3de5fd3f10d85df0e5ed75ddf57a7ca2e75c/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/home/desarrollador/.android/build-cache/23ac3de5fd3f10d85df0e5ed75ddf57a7ca2e75c/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
     }
 ]

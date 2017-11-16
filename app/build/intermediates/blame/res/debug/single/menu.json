@@ -1,10 +1,18 @@
 [
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

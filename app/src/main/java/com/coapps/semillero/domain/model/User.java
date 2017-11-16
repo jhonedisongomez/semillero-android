@@ -7,6 +7,7 @@ package com.coapps.semillero.domain.model;
 public class User {
 
     private String username;
+    private String password;
     private String password1;
     private String email;
     private String password2;
@@ -14,10 +15,10 @@ public class User {
     private String lastName;
     private String key;
 
-    public User(String username, String password1){
+    public User(String username, String password){
 
         this.username = username;
-        this.password1 = password1;
+        this.password = password;
     }
 
     //constructor to register the user
@@ -82,5 +83,13 @@ public class User {
 
     public void setLastName(String lastName) {
         this.lastName = lastName;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
     }
 }

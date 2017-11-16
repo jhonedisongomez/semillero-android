@@ -18,6 +18,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.coapps.semillero.R;
+import com.coapps.semillero.presentation.view.fragment.ListProducts;
 import com.coapps.semillero.presentation.view.fragment.Login;
 import com.coapps.semillero.presentation.view.fragment.SignUp;
 import com.coapps.semillero.utilities.Constants;
@@ -59,6 +60,10 @@ public class MainActivity extends AppCompatActivity
             //Mostramos por defecto la primera opcion del menu
             MenuItem firstOption = navigationView.getMenu().getItem(0);
             onNavigationItemSelected(firstOption);
+
+            Fragment fragment = new ListProducts();
+            replaceFragment(fragment);
+
         }else{
             fab.hide();
             Fragment fragment = new Login();

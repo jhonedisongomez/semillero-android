@@ -5,6 +5,6 @@ package com.coapps.semillero.utilities;
  */
 
 public class Constants {
-    public static final String SERVER = "http://192.168.1.51:8000";
+    public static final String SERVER = "http://10.11.6.10:8000";
     public static String token = "";
 }

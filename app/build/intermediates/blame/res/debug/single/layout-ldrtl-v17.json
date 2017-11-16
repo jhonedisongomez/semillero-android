@@ -1,10 +1,18 @@
 [
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\md_listitem_multichoice.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\md_listitem_multichoice.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\md_listitem_singlechoice.xml",
-        "source": "C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-ldrtl-v17\\md_listitem_singlechoice.xml"
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/home/desarrollador/.android/build-cache/23ac3de5fd3f10d85df0e5ed75ddf57a7ca2e75c/output/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/home/desarrollador/.android/build-cache/23ac3de5fd3f10d85df0e5ed75ddf57a7ca2e75c/output/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/home/desarrollador/AndroidStudioProjects/Semillero/G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\md_listitem_singlechoice.xml",
+        "source": "/home/desarrollador/AndroidStudioProjects/Semillero/C:\\Users\\jhon\\.android\\build-cache\\aae5bd97bcdf3c98dcd0b0e369217e05b9ece5c8\\output\\res\\layout-ldrtl-v17\\md_listitem_singlechoice.xml"
     }
 ]
