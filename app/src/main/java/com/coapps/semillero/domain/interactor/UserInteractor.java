@@ -16,5 +16,6 @@ public interface UserInteractor {
     }
 
     String syncLogin(User user, Callback callback);
+    String syncUserRegister(User user, Callback callback);
 
 }

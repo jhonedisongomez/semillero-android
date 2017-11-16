@@ -21,20 +21,25 @@ import retrofit2.http.POST;
 
 public class UserRest implements UserRepository {
 
-    public interface LoginService{
+    public interface UserService{
 
         @POST("/rest-auth/login/")
         Call<User> loginUser(@Body User user);
 
+        @POST("/rest-auth/registration")
+        Call<User> registerUser(@Body User user);
+
     }
 
+    private Retrofit retrofit = RetrofitSingleton.getInstance();
+    private UserService userService = retrofit.create(UserService.class);
+    private Call<User> userCall = null;
+    private Response<User> response = null;
 
     public String login(User user) throws IOException {
 
-        Retrofit retrofit = RetrofitSingleton.getInstance();
-        LoginService loginService = retrofit.create(LoginService.class);
-        Call<User> userCall = loginService.loginUser(user);
-        Response<User> response = userCall.execute();
+        userCall = userService.loginUser(user);
+        response = userCall.execute();
         if(response.body() == null){
             return "El email o password no estan correctos";
         }else{
@@ -42,7 +47,18 @@ public class UserRest implements UserRepository {
             return "Bienvendo";
         }
 
+    }
 
+    public String userRegister (User user) throws IOException {
+
+        userCall = userService.registerUser(user);
+        response = userCall.execute();
+
+        if(response.body() == null){
+            return "El email existe en la base de datos";
+        }else{
+            return "Estas registrado ya puedes iniciar sesión";
+        }
 
     }
 }

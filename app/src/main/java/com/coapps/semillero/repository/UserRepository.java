@@ -11,5 +11,6 @@ import java.io.IOException;
 public interface UserRepository {
 
     String login(User user) throws IOException;
+    String userRegister(User user) throws IOException;
 
 }

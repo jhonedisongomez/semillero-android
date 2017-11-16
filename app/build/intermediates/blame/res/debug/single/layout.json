@@ -36,12 +36,12 @@
         "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
-        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\layout\\nav_header_main.xml"
-    },
-    {
         "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\jhon\\.android\\build-cache\\7d349ce7398ed20d6968133375ec0d7811b989b5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "G:\\androidStudioProjects\\semillero-android\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
         "merged": "G:\\androidStudioProjects\\semillero-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",

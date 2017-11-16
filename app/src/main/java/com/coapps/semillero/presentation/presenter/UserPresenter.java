@@ -32,10 +32,48 @@ public class UserPresenter {
     public void login(String username, String password){
         view.showProgress();
 
+        if(username.length() == 0){
+            view.hideProgress();
+            view.showErrorMessage("El campo de email no puede estar vacio");
+            return;
+        }
+
+        if(password.length() == 0){
+            view.hideProgress();
+            view.showErrorMessage("La contraseña no puede estar vacia");
+            return;
+        }
+
         User user = new User(username, password);
 
         loginInteractor.syncLogin(user, new UserInteractor.Callback(){
 
+            @Override
+            public void success(Object result) {
+                view.hideProgress();
+                view.showSuccessMessage(result.toString());
+            }
+
+            @Override
+            public void error(Throwable error) {
+                view.hideProgress();
+                view.showErrorMessage(null);
+            }
+        });
+    }
+
+    public void userRegister(User user, boolean agree){
+
+        view.showProgress();
+
+        if(!agree){
+            view.hideProgress();
+            view.showSuccessMessage("Acepta los terminos y condiciones");
+            return;
+        }
+
+
+        loginInteractor.syncUserRegister(user, new UserInteractor.Callback() {
             @Override
             public void success(Object result) {
                 view.hideProgress();

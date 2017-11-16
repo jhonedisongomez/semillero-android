@@ -13,19 +13,19 @@ import java.io.IOException;
 
 public class UserInteractorImpl implements UserInteractor {
 
-    private UserRest loginRest;
+    private UserRest userRest = new UserRest();;
     private String response= "";
 
     @Override
     public String syncLogin(final User puser, final Callback callback) {
-        loginRest = new UserRest();
+
 
         new ThreadExecutor(new ThreadExecutor.Executor(){
 
             @Override
             public Object execute() {
                 try {
-                    response =loginRest.login(puser);
+                    response =userRest.login(puser);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -41,6 +41,38 @@ public class UserInteractorImpl implements UserInteractor {
                     callback.success(result);
                 }
             }
+        }).execute();
+
+        return response;
+    }
+
+
+    public String syncUserRegister(final User user, final Callback callback){
+
+        new ThreadExecutor(new ThreadExecutor.Executor() {
+            @Override
+            public Object execute() {
+                try {
+                    response = userRest.userRegister(user);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                    response = "error registrando el usuario";
+                }
+
+                return response;
+            }
+
+            @Override
+            public void finish(Object result) {
+
+                if(result instanceof Throwable){
+                    callback.error((Throwable) result);
+                }else{
+                    callback.success(result);
+                }
+
+            }
+
         }).execute();
 
         return response;
